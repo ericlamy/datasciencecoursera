@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-MyRepo for Data Science Specialisation
+MyRepo for the COURSERA Data Science Specialization
